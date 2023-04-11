@@ -1,5 +1,5 @@
 # Tribute-Page
-Certification project - building a Tribute Page for a subject of my choosing, fictional or real in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">freeCodeCamp</a>.<br>
+Certification project - building a Tribute Page for a subject of my choosing, fictional or real in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-tribute-page-project">freeCodeCamp</a>.<br>
 I tried to replicate my tribute page to be similar to the <a href="https://tribute-page.freecodecamp.rocks/">freeCodeCamp's tribute page example</a>.<br>
 Part of the Responsive Web Design Certification.
 
